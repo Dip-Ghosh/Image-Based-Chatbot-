@@ -4,7 +4,7 @@
 
 - First Install Homestead and vagrant.
 - Clone the Project from the repository git
-  clone https://github.com/Dip-Ghosh/-Image-Based-Chatbot-with-Laravel-and-ChatGPT-.git
+  clone https://github.com/Dip-Ghosh/Image-Based-Chatbot-.git
 - Go inside vagrant and install the project by composer install
 - Run cp .env.example .env
 - Run php artisan key:generate
